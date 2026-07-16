@@ -11,6 +11,7 @@ This organizer is very costumizable as the headphone and watch holders are print
 
 <img width="587" height="612" alt="Screenshot 2026-07-16 152437" src="https://github.com/user-attachments/assets/5c721440-2818-44fb-a362-729dea28627a" />
 
+In the 3mf File Each part is seperate so that it is easier to print
 ___
 
 Instructions:
