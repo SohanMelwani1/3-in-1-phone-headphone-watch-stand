@@ -7,6 +7,11 @@ While making it, I tried featuring a minamalist design while making a small orga
 
 This organizer is very costumizable as the headphone and watch holders are printed separatley from the phone holder, so you can costumize those 2 according to your preference.
 
+<img width="666" height="615" alt="Screenshot 2026-07-16 152451" src="https://github.com/user-attachments/assets/f6038fcd-dd92-4efa-86f5-5e7fe250e07c" />
+
+<img width="587" height="612" alt="Screenshot 2026-07-16 152437" src="https://github.com/user-attachments/assets/5c721440-2818-44fb-a362-729dea28627a" />
+
+___
 
 Instructions:
 
@@ -18,6 +23,7 @@ glue the headphone stand and watch stand in place, in their own slots
 
 Adjust the phone sliders(there are 2 slots)
 
+___
 
 Print settings:
 
@@ -26,3 +32,11 @@ Printed with Bambu Labs A1 mini, PLA Black
 Enable supports
 
 Infill 8%
+
+___
+Credits:
+
+Macondo Hackclub
+
+Fusion 360
+
