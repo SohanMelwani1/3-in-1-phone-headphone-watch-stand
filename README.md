@@ -14,6 +14,9 @@ This organizer is very costumizable as the headphone and watch holders are print
 In the 3mf File Each part is seperate so that it is easier to print
 ___
 
+<img width="522" height="649" alt="Screenshot 2026-07-18 164515" src="https://github.com/user-attachments/assets/cc713294-32b9-46bb-aaf2-fcc4b4505eb8" />
+
+
 Instructions:
 
 Print using PLA black(color is up to you)
@@ -33,6 +36,10 @@ Printed with Bambu Labs A1 mini, PLA Black
 Enable supports
 
 Infill 8%
+
+printables page: https://www.printables.com/model/1784359-3-in-1-stand-phone-headphones-and-watch
+
+Demo: https://www.youtube.com/shorts/9OrlEgR0dAk
 
 ___
 Credits:
