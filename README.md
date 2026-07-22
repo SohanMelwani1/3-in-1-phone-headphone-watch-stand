@@ -1,4 +1,4 @@
-# 3-in-1-phone-headphone-watch-stand
+# 3-in-1-phone stand
 A phone stand + headphone holder + watch holder
 
 This was designed to neatly store your phone, headphones and watch while organizing your table
@@ -37,7 +37,7 @@ Enable supports
 
 Infill 8%
 
-printables page: https://www.printables.com/model/1784359-3-in-1-stand-phone-headphones-and-watch
+printables page: https://www.printables.com/model/1784359-3-in-1-phone-stand
 
 Demo: https://www.youtube.com/shorts/9OrlEgR0dAk
 
